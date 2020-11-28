@@ -13,9 +13,9 @@ Executable:
 Without executable / compile yourself:
 ```
 1. Download IntuneWIN-GUI.py
-2. pip install PyQt5
+2. pip install PyQt5 pyinstaller
 3. Download Microsoft's Win32 Content Prep Tool and add it to the same folder as IntuneWIN-GUI.py (https://github.com/Microsoft/Microsoft-Win32-Content-Prep-Tool)
-4. python .\IntuneWIN-GUI.py or pyinstaller --onefile .\IntuneWIN-GUI.py
+4. python .\IntuneWIN-GUI.py OR pyinstaller --onefile .\IntuneWIN-GUI.py
 ```
 
 ### Release notes
